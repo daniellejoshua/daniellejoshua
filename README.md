@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Danielle Joshua Esternon, currently a student at Datamex College of Saint Adeline, <br>Im learning to be a full stack developer, currently learning Typescript, AI APIS, NEXT.JS, and want to upskill to NestJs 
+Im Danielle Joshua Esternon, currently a student at Datamex College of Saint Adeline, <br>Im learning to be a full stack developer, currently learning Typescript, AI APIS, NEXT.JS, Python, Rags, VTON models and upskilling to be an AI Engiiner 
 
 
 ## 🌐 Socials:
